@@ -1,3 +1,6 @@
+title: Welcome to the spork homepage
+description: The Spork, superior to both spoon and fork. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ChadwickWeiler/spork.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
